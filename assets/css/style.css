@@ -24,3 +24,56 @@ h1{
     padding-left: 20px;
     padding-top: 10px;
     color:darkgrey;}
+
+/* navigation links */
+
+#menu{
+    font-size: 100%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: black;
+
+}
+#menu li{
+    float: right;
+    margin-right: 25px;
+    padding-top: 20px;
+    list-style-type:none;
+    
+}
+#menu #logo{
+    line-height: 60px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #3a3a3a;
+    font-family:cambria;
+    font-weight: 100%;
+    
+}
+
+#menu a:hover{
+    background-color:rgb(194, 208, 208);
+    list-style-type: none;
+    border-bottom: 1px solid #a99f9f;
+
+    
+}
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
+
+
+/* main image */
+#image-outer{
+    height:700px;
+    width:100%;
+    overflow: hidden;
+}
+
+#main-image{
+    height: 700px;
+    width: 100%;
+    background: url('../css/images/first-iamge.jpeg')no-repeat center center;
+}
