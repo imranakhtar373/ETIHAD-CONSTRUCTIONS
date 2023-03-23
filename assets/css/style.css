@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+
+
 *{
     margin:0;
     padding: 0;
@@ -77,3 +81,31 @@ h1{
     width: 100%;
     background: url('../css/images/first-iamge.jpeg')no-repeat center center;
 }
+
+/* main section */
+#about{
+    color:gray;
+    text-align: center;
+    letter-spacing: 0px;
+    padding-top: 3%;
+    
+}
+#heading-1{
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', ;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 1%;
+}
+p{
+    color: #3a3a3a;
+    text-align: center;
+    padding-right: 1%;
+    padding-left: 1%;
+    font-family:lato;
+    margin: 0 0 20px;
+    padding-top: 2%;
+
+}
+
+
