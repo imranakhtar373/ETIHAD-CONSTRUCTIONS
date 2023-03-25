@@ -117,7 +117,12 @@ p{
 .image-row {
     display: flex;
     flex-wrap: wrap;
+    margin: 20px;
     justify-content: center; 
+    overflow: hidden;
+    cursor: pointer;
+    transition:0.3s
+    
     
   }
   
@@ -126,7 +131,9 @@ p{
     flex-grow: 1; 
     margin: 0.25rem; 
   }
-  
+  .image-row :hover{
+    transform:scale(1.02) ;
+  }
 
 /* footer */
 footer{
