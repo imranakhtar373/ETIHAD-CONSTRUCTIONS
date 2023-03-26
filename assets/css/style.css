@@ -120,6 +120,7 @@ p{
     margin: 20px;
     justify-content: center; 
     overflow: hidden;
+    position: relative;
     cursor: pointer;
     transition:0.3s
     
@@ -159,7 +160,26 @@ footer p{
     color: aliceblue;
     padding-bottom: 1px;
     margin: 0 auto;
-    letter: spacing 4px;
+    letter-spacing: 4px;
 
+}
+
+/* projects gallery*/
+
+#photo{
+    clear: both;
+    margin-right:right;
+}
+h2{
+    text-align: center;
+    padding-left: 20px;
+    font-family:lucida sans;
+    padding-top:15%;
+}
+.container{
+    display: flex;
+    padding-right: 5%;
+    padding-top: 3%;
+    float:left;
 }
 
