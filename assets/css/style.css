@@ -173,6 +173,7 @@ footer p{
 h2{
     text-align: center;
     padding-left: 20px;
+    letter-spacing: 3px;
     font-family:lucida sans;
     padding-top:15%;
     
@@ -181,18 +182,18 @@ h2{
 }
 .container{
     display:flex;
-    grid-template-columns: 1fr 1fr;
-    padding-right: 5%;
+   padding-right: 5%;
     padding-top: 3%;
     float:right;
     font: 18px;
    
     
 }
-.text2 p{
+.text p{
 display: flex;
 float: left;
 text-align: center;
+
 
 
    
