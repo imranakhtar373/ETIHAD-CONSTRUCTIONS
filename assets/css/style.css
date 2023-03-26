@@ -174,7 +174,7 @@ h2{
     text-align: center;
     padding-left: 20px;
     letter-spacing: 3px;
-    font-family:lucida sans;
+    font-family:optima;
     padding-top:15%;
     
 
@@ -194,7 +194,10 @@ display: flex;
 float: left;
 text-align: center;
 
-
-
-   
+}
+h3{
+    padding-top:100px;
+    text-align: center;
+    font-family:lucida sans;
+    font: 46px;
 }
