@@ -2,7 +2,8 @@
 
 
 
-* {
+*
+{
     margin:0;
     padding: 0;
     border: none;
@@ -196,11 +197,51 @@ text-align: center;
 
 }
 
-/* gallery heading*/
-
-.gallery-heading{
-    padding-top:100px;
-    text-align: center;
-    font-family:lucida sans;
-    font: 46px;
+/* contact heading */
+.contact-box{
+    clear: both;
+    width: 500px;
+    color: white;
+    background-color: #3a3a3a;
+    box-shadow: 0 0 20px 0 #999;
+    text-align:left;
+    top: 25%;
+    left: 25%;
+    position: absolute;
+    width: auto;
 }
+form{
+    margin: 45px;
+}
+.input-field{
+    width: 400px;
+    height: 40px;
+    margin-top:20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+.textarea-field{
+    height: 150px;
+    padding-top: 10px;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  
+
+
+
