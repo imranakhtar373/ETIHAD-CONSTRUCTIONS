@@ -169,7 +169,7 @@ footer p{
 
 #photo{
     clear: both;
-    margin-right:right;
+    margin-right:auto
 }
 h2{
     text-align: center;
@@ -202,13 +202,19 @@ text-align: center;
     clear: both;
     width: 500px;
     color: white;
-    background-color: #3a3a3a;
+    background:darkgrey;
     box-shadow: 0 0 20px 0 #999;
     text-align:left;
-    top: 25%;
+    top: 20%;
     left: 25%;
+
     position: absolute;
     width: auto;
+}
+.contact-form-container{
+    background:url('../css/images/pexels-jeshootscom-442579.jpg')no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 form{
     margin: 45px;
@@ -229,7 +235,7 @@ form{
 }
 
 input[type="submit"] {
-    background-color: #4CAF50;
+    background-color: #474e47;
     color: white;
     font-size: 16px;
     border-radius: 5px;
@@ -239,9 +245,19 @@ input[type="submit"] {
   }
   
   input[type="submit"]:hover {
-    background-color: #3e8e41;
+    background-color: #383938;
   }
-  
+  /* media quiries */
 
+  /* for larger to medium screen size from 1200px wide and down */
 
+@media screen and (max-width: 950px) {
+    #menu{
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
 
