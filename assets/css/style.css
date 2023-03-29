@@ -200,12 +200,11 @@ text-align: center;
 /* contact heading */
 
 .form-section{
-    background: url('../css/images/pexels-ivan-siarbolin-3787839-3.jpg')no-repeat;
-    background-size: cover;
-    background-position: center;
+    clear: left;
+    background: url('../css/images/pexels-ivan-siarbolin-3787839-3.jpg');
+    background-size:cover;
+    background-position:center;
     height: 800px;
-    width: 100%;
-    clear: both;
 }
 
 .contact-box{
@@ -221,7 +220,7 @@ text-align: center;
     box-shadow: 0 0 20px 0 #999;
     text-align:left;
     top: 10%;
-    left: 10%;
+    left:8%;
     padding: 5px;
 }
 .contact-form-container{
@@ -232,7 +231,7 @@ form{
     margin: 45px;
 }
 .input-field{
-    width: 300px;
+    width: 250px;
     height: 40px;
     margin-top:20px;
     padding-left: 10px;
@@ -288,7 +287,7 @@ input[type="submit"] {
     form{    
     float: left;
     margin-left: 30px;
-    margin-left: 30px;
+    margin-right: 30px;
     margin-bottom: 20px;
     line-height: 25px;
 
