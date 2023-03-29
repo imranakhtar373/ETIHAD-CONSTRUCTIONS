@@ -198,21 +198,33 @@ text-align: center;
 }
 
 /* contact heading */
+
+.form-section{
+    background: url('../css/images/pexels-ivan-siarbolin-3787839-3.jpg')no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+    width: 100%;
+    clear: both;
+}
+
 .contact-box{
     clear: both;
-    width: 500px;
+    max-width: 500px;
+    margin: 50px 10% 0 0 ;
+    margin-bottom: 20px;
+    width: auto;
+    position: absolute;
     color: white;
-    background:darkgrey;
+    position: absolute;
+    background:black;
     box-shadow: 0 0 20px 0 #999;
     text-align:left;
-    top: 20%;
-    left: 25%;
-
-    position: absolute;
-    width: auto;
+    top: 10%;
+    left: 10%;
+    padding: 5px;
 }
 .contact-form-container{
-    background:url('../css/images/pexels-jeshootscom-442579.jpg')no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -220,7 +232,7 @@ form{
     margin: 45px;
 }
 .input-field{
-    width: 400px;
+    width: 300px;
     height: 40px;
     margin-top:20px;
     padding-left: 10px;
@@ -251,7 +263,8 @@ input[type="submit"] {
 
   /* for larger to medium screen size from 1200px wide and down */
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1200px) {
+    
     #menu{
         clear: left;
         float: left;
@@ -259,5 +272,28 @@ input[type="submit"] {
         margin-bottom: 20px;
         line-height: 25px;
     }
+    .responsive{
+        width: 100%;
+        height:auto
+    }
+    
 }
+/* for small screen sizes below 800px width */
+@media screen and (max-width:800px) {
+    .container{
 
+       flex-flow: row wrap;
+       width: 90%;
+    }
+    form{    
+    float: left;
+    margin-left: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+
+        
+        
+    }
+
+}
