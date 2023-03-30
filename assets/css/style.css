@@ -277,11 +277,22 @@ input[type="submit"] {
     }
     
 }
+/* for medium screen sizes from 950px width wide and down */
+@media screen and (max-width:1200px) {
+   .container{
+    flex-wrap:wrap;
+    
+
+
+ }
+}
+    
+
 /* for small screen sizes below 800px width */
 @media screen and (max-width:800px) {
     .container{
 
-       flex-flow: row wrap;
+       flex-flow:wrap;
        width: 90%;
     }
     form{    
@@ -290,8 +301,7 @@ input[type="submit"] {
     margin-right: 30px;
     margin-bottom: 20px;
     line-height: 25px;
-
-        
+    
         
     }
 
