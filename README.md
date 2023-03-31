@@ -5,7 +5,7 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
 ## ABOUT ETIHAD
  Etihads aim is to provide custumers the best living experience and offering them a wide range of properties with luxurious manufacturing and comfort. This page provides all the basic information about their properties and their international projects with the images.
 
- ![](/documentation/mainreponsive.png)
+ ![screenshot of responsive page](/documentations/main%20reponsive.png)
 
  ## Features 
  During this process i tried to make this web so simple and meaningful. like not a lot of words as (much simple as i can).
@@ -18,7 +18,7 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
    These three helps costumer in selecting topics or sub-topics of their interest. 
      + The navigation sections having embedded the necessary links of the webpage.
 
-    ![screenshot of navigation part](/Documents/navbar.png)
+    ![screenshot of navigation part](/documentations/navbar.png)
   
 + ### Opening image
   + The opening image (main image) is based on what is this website about.
