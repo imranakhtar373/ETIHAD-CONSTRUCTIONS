@@ -18,7 +18,7 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
    These three helps costumer in selecting topics or sub-topics of their interest. 
      + The navigation sections having embedded the necessary links of the webpage.
 
-    ![screenshot of navigation part](/documentations/navbar.png)
+    ![screenshot of navigation part](/documentation/navbar.png)
   
 + ### Opening image
   + The opening image (main image) is based on what is this website about.
