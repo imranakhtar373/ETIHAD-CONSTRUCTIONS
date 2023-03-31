@@ -5,7 +5,7 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
 ## ABOUT ETIHAD
  Etihads aim is to provide custumers the best living experience and offering them a wide range of properties with luxurious manufacturing and comfort. This page provides all the basic information about their properties and their international projects with the images.
 
- ![Screenshot of main reponsive page ](/Documents/reponsive.png)
+ ![](/documentation/mainreponsive.png)
 
  ## Features 
  During this process i tried to make this web so simple and meaningful. like not a lot of words as (much simple as i can).
