@@ -5,7 +5,7 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
 ## ABOUT ETIHAD
  Etihads aim is to provide custumers the best living experience and offering them a wide range of properties with luxurious manufacturing and comfort. This page provides all the basic information about their properties and their international projects with the images.
 
- ![screenshot of responsive page](/documentations/main%20reponsive.png)
+ ![screenshot of responsive page](/documentation/main%20reponsive.png)
 
  ## Features 
  During this process i tried to make this web so simple and meaningful. like not a lot of words as (much simple as i can).
@@ -24,7 +24,7 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
   + The opening image (main image) is based on what is this website about.
     + image introduce the huge infrastructure of buildings with a breathtaking view.
 
-  ![screenshot of main image](/Documents/main-image.png)
+  ![screenshot of main image](/documentation/mainimage.png)
  
 
  + ### About us Section
@@ -33,14 +33,14 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
     others.
 
 
-   ![screenshot of about us page](/Documents/about.png)
+   ![screenshot of about us page](/documentation/about.png)
 
 
 + ### Images 
  + This section will allow the user to see some properties and some preview of housing society.
    + this section consists of 4 images of diffrent qualities.
 
-   ![screenshot of middle images](/Documents/middle-images.png)
+   ![screenshot of middle images](/documentation/middleimage.png)
 
 + ### Footer
   + The footer section in main page and project page direct links to the social media acoounts .After clicking on them they will open a new tab of the social media page for user.
@@ -48,7 +48,7 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
     where projects and construction sites are always updated.
 
 
-    ![screenshot of footer links](/Documents/footer.png)
+    ![screenshot of footer links](/documentation/footer.png)
 
 
 + ### Gallery 
@@ -56,9 +56,9 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
        + This section provides user a valuable preview of projects with images, locations and info.
 
 
-    ![screenshot of project images](/Documents/projects%201.png)
-    ![screenshot of project images](/Documents/project%202.png)
-    ![screenshot of project images](/Documents/project%203.png)
+    ![screenshot of project images](/documentation/project-img1.png)
+    ![screenshot of project images](/documentation/project-img2.png)
+    ![screenshot of project images](/documentation/project-img3.png)
 
  + ### Sign Up Page 
 
@@ -66,7 +66,7 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
       After submitting all the basic contact information like (NAME,EMAIL,CONTACT NUMBER) within 24 hours youll be get a brochure of ETIHAD and 
       you'll be contacted by ETIHAD team who will inform you about projects ,their pricing,their payment method and they will answer to all of your questions. 
 
-      ![screenshot of signup page](/Documents/contact.png)
+      ![screenshot of signup page](/documentation/contact.png)
 
       # Color
       I have used basically 3 colors Because these 3 colors gives best contrast, easy to watch and enough for elegent and graceful look.
@@ -98,9 +98,9 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
 
     # Google Lighthouse
      + Main Page
-     ![screenshot of lighthouse](/Documents/mainpage.png)
+     ![screenshot of lighthouse](/documentation/lighthouse-mainpage.png)
      + Project page
-     ![screenshot of lighthouse for projectpage](/Documents/projectpage.png)
+     ![screenshot of lighthouse for projectpage](/documentation/lighthouse-project.png)
         
 
     # Deployment
@@ -116,7 +116,7 @@ I started to work on this website on 22nd of March .Got the Basic Idea from the 
 
    Content
     + About us content taken from the official Emaar Website [EMAAR](https://www.emaar.com) 
-    + Instruction for contact form taken CHAT GPT (which is now officilay banned in ITALY now)
+    + Instruction for contact form taken from CHAT GPT (which is now officilay banned in ITALY now)
     + Icons for the footer [Font Awesome](https://fontawesome.com/)
 
     Media
